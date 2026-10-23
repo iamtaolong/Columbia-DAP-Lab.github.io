@@ -139,12 +139,68 @@
 
 - title: "FeedQUAC: Quick Unobtrusive Agent-Generated Commentary"
   authors: Tao Long, Kendra Wannamaker, Jo Vermeulen, George Fitzmaurice, Justin Matejka
-  conf: arXiv 2025
+  conf: HAI 2025
   pub_date: "2025-04-23"
   url: https://arxiv.org/abs/2504.16416
   tags:
     - agent
     - ai
+    - hac
+
+- title: "DoubleAgents: Human-Agent Alignment in a Socially Embedded Workflow"
+  authors: Tao Long, Xuanming Zhang, Sitong Wang, Zhou Yu, Lydia B. Chilton
+  conf: HCOMP 2026
+  pub_date: "2025-09-16"
+  url: https://arxiv.org/abs/2509.12626
+  tags:
+    - agent
+    - ai
+    - hac
+
+- title: "ParallelPilot: Supporting Coordination and Monitoring of Parallel AI Coding Agents"
+  authors: Tao Long, Weili Shi, Hussein Mozannar, Maya Murad, Rafah Hosn
+  conf: Under review
+  pub_date: "2026-09-15"
+  url: https://arxiv.org/abs/2609.33113
+  tags:
+    - agent
+    - ai
+    - hac
+
+- title: "SPEAR: Five Principles for Interactive Human-Agent Alignment"
+  authors: Tao Long, Lydia B. Chilton
+  conf: HCOMP 2026
+  pub_date: "2026-10-08"
+  url: https://arxiv.org/abs/2610.07204
+  comments: Best Talk Award!
+  tags:
+    - hac
+    - whitepaper
+
+- title: "Beyond Benchmarks: What Might User-Centered Evaluation of Agentic AI Look Like?"
+  authors: Tao Long, Gloria Bingcan Guo
+  conf: North East Agents Day 2026
+  pub_date: "2026-05-01"
+  url: https://iamtaolong.github.io/assets/documents/2026_BeyondBenchmarks_NEAgentsDay.pdf
+  tags:
+    - hac
+    - bench
+    - whitepaper
+
+- title: "Facilitating Longitudinal Interaction Studies of AI Agents and Systems"
+  authors: Tao Long, Sitong Wang, Émilie Fabre, Tony Wang, Anup Sathya, Jason Wu, Savvas Dimitrios Petridis, Ding Li, Tuhin Chakrabarty, Yue Jiang, Jingyi Li, Tiffany Tseng, Ken Nakagaki, Qian Yang, Nikolas Martelaro, Jeffrey V. Nickerson, Lydia B. Chilton
+  conf: UIST 2025 Adjunct (Workshop)
+  pub_date: "2025-08-14"
+  url: https://arxiv.org/abs/2508.10252
+  tags:
+    - hac
+
+- title: "Not Just Novelty: A Longitudinal Study on Utility and Customization of an AI Workflow"
+  authors: Tao Long, Katy Ilonka Gero, Lydia B. Chilton
+  conf: DIS 2024
+  pub_date: "2024-02-15"
+  url: https://arxiv.org/abs/2402.09894
+  tags:
     - hac
 
 - title: "ACE: A LLM Agent-based Negotiation Coaching System"
